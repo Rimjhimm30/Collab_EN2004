@@ -1,4 +1,4 @@
 Brand-iphone
 Call 
 Bluetooth
-power saving mode
+power-saving-mode
