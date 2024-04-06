@@ -1,7 +1,6 @@
 Brand-iphone
 Call 
 wireless charging
+power save mode
 Bluetooth
-location
 In display fingerprint
-
